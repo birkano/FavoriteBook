@@ -6,3 +6,8 @@ Favorite films and tv series basic app
 
 <img width="379" alt="favoritebook scrshot2" src="https://user-images.githubusercontent.com/89106601/191801909-330840ef-feb9-4764-ad89-d167ddf0ecc7.png">
 
+# Gif
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/89106601/191805444-737555fe-b7bc-433b-b768-4b42e7959014.gif)
+
+
